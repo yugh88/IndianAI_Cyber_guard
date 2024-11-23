@@ -61,7 +61,7 @@ Installation
 
 	1.	Clone this repository:
 
-git clone https://github.com/yourusername/cyberguard-ai-hackathon.git
+git clone https://github.com/yugh88/IndianAI_Cyber_guard.git
 
 
 	2.	Install required libraries:
